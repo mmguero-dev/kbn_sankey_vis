@@ -11,7 +11,7 @@ Here is an example:
 # Install
 
 ```
-git clone https://github.com/uniberg/kbn_sankey_vis.git sankey_vis
+git clone https://github.com/mmguero-dev/kbn_sankey_vis.git sankey_vis
 cd sankey_vis
 yarn install
 yarn start
@@ -32,7 +32,7 @@ Building a release only means packaging the plugin with all its dependencies int
 The following steps would produce a release of the current head master branch.
 ```
 mkdir kibana
-git clone https://github.com/uniberg/kbn_sankey_vis.git sankey_vis
+git clone https://github.com/mmguero-dev/kbn_sankey_vis.git sankey_vis
 cd sankey_vis
 [optional] git checkout -branch
 yarn install
